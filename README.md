@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working as Undergraduate Researcher, and I'm interested in Backend Engineer and LLMs 
+Driven by a passion for innovative solutions and a deep technical foundation, I am a Computer Science student specializing in AI, backend development, and user experience optimization. With a background in AI-powered traffic management and e-commerce development, I have successfully contributed to high-impact projects that merge research and real-world application.
+
+Currently, as an Undergraduate Researcher, I am developing AI-driven models that optimize traffic flow predictions by integrating Large Language Models (LLMs) with Traffic Foundation Models (TFMs). This work has shown measurable improvements in prediction accuracy and system responsiveness, showcasing the transformative power of AI in managing urban infrastructure.
+
+In my previous role as a Backend Java Developer, I contributed to an e-commerce project that boosted sales by 25% and improved user engagement through a dynamic, responsive platform. From this experience, I honed my skills in scalability and performance optimization, using technologies like Spring Boot, AWS, and MongoDB.
+
+With expertise in Python, Java, Go, Swift, and frameworks like React, ExpressJS, and LangChain, I am eager to bring a data-driven, user-centric approach to new challenges. Let’s connect to discuss how my skills and experiences can contribute to innovative projects and your network's goals!
 
 
 ## 🌐 Socials:
